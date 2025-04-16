@@ -2,6 +2,16 @@
 
 Welcome to my digital garage — where cybersecurity meets cutting-edge cryptography.
 
+## 🎓 Education
+
+Computer Science & Engineering, B.Tech
+
+## 👨‍💻 Work Experience
+
+Cryptographer @ Qclairvoyance Quantum Labs
+- Working on Certifying Authority based on lattice based digital signature schemes
+- Integrated Lattice-Based Cryptography in QVPN
+
 ## 🚧 Currently Building
 
 I'm actively exploring **Post-Quantum Cryptography (PQC)** and working on various integrations that aim to secure the future before it arrives.
